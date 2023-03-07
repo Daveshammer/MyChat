@@ -1,0 +1,10 @@
+// 注册
+{"msgid":3,"name":"li si","password":"666666"}
+// 登录
+{"msgid":1,"id":13,"password":"123456"}
+{"msgid":1,"id":15,"password":"666666"}
+// 一对一聊天
+{"msgid":5,"id":13,"from":"zhang san","toid":15,"msg":"hello!"}
+
+// 一对多聊天
+{"msgid":6,"id":13,"friendid":15,"msg":"hello!"}
